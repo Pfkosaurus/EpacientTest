@@ -82,7 +82,7 @@ namespace E_Pacient
 
         private void hesloboxlog_TextChanged(object sender, EventArgs e)
         {
-
+            //cicina
         }
 
         private void passChechBox_CheckedChanged(object sender, EventArgs e)

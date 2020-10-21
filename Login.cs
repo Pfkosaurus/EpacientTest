@@ -77,13 +77,13 @@ namespace E_Pacient
         }
         private void Doktor()
         {
-            //fdg
-
+            //asd
+            //xfgdfgfgfgd
         }
 
         private void hesloboxlog_TextChanged(object sender, EventArgs e)
         {
-            //cia
+            
         }
 
         private void passChechBox_CheckedChanged(object sender, EventArgs e)

@@ -77,6 +77,7 @@ namespace E_Pacient
         }
         private void Doktor()
         {
+            //fdg
 
         }
 
